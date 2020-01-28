@@ -1,0 +1,14 @@
+{
+  "name": "Clipboard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RyanNiu/Clipboard.git",
+  "author": "Ryan <ryan4work@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev":"electron-webpack dev"
+  },
+  "dependencies": {
+    "source-map-support": "^0.5.16"
+  }
+}
